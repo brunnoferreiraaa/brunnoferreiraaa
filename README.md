@@ -1,22 +1,18 @@
-### Oláa! Eu me chamo Bruno 👋
+### Oláa! Eu me chamo Bruno. Estou apenas iniciando em tecnologia! 👋
 
-
-- 🔭 Estou constantemente estudando ...
-- 🌱 Iniciando HTML e CSS ...
-- 👯 Próximo passo: JavaScript ...
 <br/>
 
 <div>
 <a href="https://github.com/brunnoferreiraaa">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunnoferreiraaa&show_icons=true&theme=dark&include_all_commits=true&count_private-true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunnoferreiraaa&layout=compact&langs_count=16&theme=dark"/>
+<img height="120em" src="https://github-readme-stats.vercel.app/api?username=brunnoferreiraaa&show_icons=true&theme=dark&include_all_commits=true&count_private-true"/>
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunnoferreiraaa&layout=compact&langs_count=16&theme=dark"/>
 <div/>
 <div style="display: inline_block"><br>
   <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bruno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Bruninho" height="200" width="200" src="https://cdn.picrew.me/shareImg/org/202211/338224_FZpbW7in.png">
+  <img align="right" alt="Bruninho" height="150" width="150" src="https://cdn.picrew.me/shareImg/org/202211/338224_FZpbW7in.png">
 </div>
 
 ##
