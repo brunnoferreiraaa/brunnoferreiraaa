@@ -1,4 +1,4 @@
-### Oláa! Eu me chamo Bruno. Estou apenas iniciando em tecnologia! 👋
+### Oláa! Eu me chamo Bruno. Estou apenas iniciando minha trajetória em tecnologia! 👋
 
 <br/>
 
